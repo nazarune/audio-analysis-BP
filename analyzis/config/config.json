@@ -1,0 +1,10 @@
+{
+    "stream_url": "http://147.232.176.86:5000/audio_feed",
+    "duration": 30,
+    "lang_locale": "en-GB",
+    "mqtt_server": "mqtt.eclipseprojects.io",
+    "mqtt_port": 1883,
+    "general_topic": "bcthesis/general",
+    "music_topic": "bcthesis/music",
+    "transcribe_topic": "bcthesis/text"
+}
